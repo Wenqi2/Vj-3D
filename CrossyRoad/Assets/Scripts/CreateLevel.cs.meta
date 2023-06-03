@@ -3,7 +3,9 @@ guid: ad16b99354b02214db8f00e0a5faf055
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - grassPrefab: {fileID: 9204354760360268162, guid: 7ed01085bb039d7488ba7558ad4be868, type: 3}
+  - roadPrefab: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
